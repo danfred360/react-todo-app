@@ -1,3 +1,14 @@
+## Stuff I used to make this
+- react developer tools - chrome extension
+- create react app - using npx to make a single use run version
+- npm install uuid - for random id keys
+- npm install react-router-dom - for routing to different pages
+- npm install axios - http request thing
+- http://jsonplaceholder.typicode.com/
+## YouTube Tutorial
+- https://www.youtube.com/watch?v=sBws8MSXN7A&
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
